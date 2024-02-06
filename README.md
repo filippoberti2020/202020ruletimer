@@ -23,7 +23,15 @@ To install the 20 20 20 Rule Timer Windows app, you have two options:
 2. **Download the Exe File:**
    - If you simply want to use the app, you can download the "202020ruletimer.exe" file from the "dist" folder of the installation package. Inside the "dist" folder, you will find the "202020ruletimer" subfolder, which contains the "202020ruletimer.exe" file.
 
-After obtaining the "202020ruletimer.exe" file, navigate to the "202020ruletimer" folder and run the "202020ruletimer.exe" file to initiate the installation process. Once the installation is complete, the app will start sending regular notifications according to the 20-20-20 rule.
+## Running the Program at Startup
+
+To run the 20 20 20 Rule Timer Windows app at startup, follow these steps:
+
+1. Press `Windows + R`, type `shell:startup`, and click "OK." This will open the Startup folder.
+2. Copy the shortcut of the "202020ruletimer.exe" file.
+3. Paste the shortcut into the Startup folder. This will ensure that the app runs automatically each time you start your computer.
+
+By following these steps, the 20 20 20 Rule Timer Windows app will be set to run as a startup app, allowing it to send regular notifications according to the 20-20-20 rule without the need to open it manually.
 
 
 ## Usage
