@@ -30,10 +30,6 @@ After obtaining the "202020ruletimer.exe" file, navigate to the "202020ruletimer
 
 Once installed, the extension will start sending regular notifications according to the 20-20-20 rule.
 
-## Support
-
-For any questions or feedback, please contact us at 202020timer@gmail.com.
-
 ## Contributing
 
 We welcome contributions to improve the 20 20 20 Rule Timer GNOME extension. Please feel free to submit issues or pull requests.
