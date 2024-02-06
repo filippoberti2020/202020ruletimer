@@ -28,7 +28,12 @@ To install the 20 20 20 Rule Timer Windows app, you have two options:
 To run the 20 20 20 Rule Timer Windows app at startup, follow these steps:
 
 1. Press `Windows + R`, type `shell:startup`, and click "OK." This will open the Startup folder.
-2. Copy the shortcut of the "202020ruletimer.exe" file.
+2. Copy the shortcut of the "202020ruletimer.exe" file. To copy the shortcut of an .exe file, you can use the following method:
+    
+    1. Open Windows File Explorer and locate the .exe file.
+    2. Press and hold the Shift key, then right-click on the .exe file.
+    3. Select "Copy as path" from the menu that appears.
+
 3. Paste the shortcut into the Startup folder. This will ensure that the app runs automatically each time you start your computer.
 
 By following these steps, the 20 20 20 Rule Timer Windows app will be set to run as a startup app, allowing it to send regular notifications according to the 20-20-20 rule without the need to open it manually.
